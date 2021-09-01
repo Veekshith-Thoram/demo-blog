@@ -10,7 +10,7 @@ Here are the two major things which we discuss:
 
     >Why Linux?
 
-    >Dont know Linux perfectly, then how you can encounter your fantasy.
+    >Installing Linux in your Windows Environment
 
 ## Why Linux?
 
@@ -41,21 +41,52 @@ VirtualBox is a cross-platform visualization software. In simple terms, it is an
 So basically here are the steps to install VirtualBox:
 
 - Go to the official website of VirtualBox which is [here](https://www.virtualbox.org/wiki/Downloads "VirtualBox").
-
 - Click on the suitable link according to your requirement and the download process starts.
-
 - After the completion of download, click on the downloaded file and wait for the initialiation wizard pops up.
-
 - So go ahead and click next and the default setup is enough.
-
 - A warning appears which basically means that network connection will be reset,no worries just your internet connection breaks and again comes up online.
-
-![Warning!!](blog-img.png "Warning-photo")
+  ![Warning!!](blog-img.png "Warning-photo")
 
 - Click on Install to begin the installation process.
-
 - After the installation process is done,click on **Finish**
 
 So yup, your virtualbox is fully configured and is ready to operate.
 
 ![VBox](vm-blog.png "VBox")
+
+## Installing Linux in your Windows Environment
+
+So by now you are completely set up with the VBox software which is displayed as the above image.
+
+Steps to follow to install Linux Distros:
+
+- Click on New tab which is on the top of the panel.
+- A window pops up asking the name and file location, give a name and select the file location where you want to store the data of that distros.
+- Select the type of Operating System you would like to install,in our case it is Linux, so select Linux.
+- Now select the version of Distro you would like to install
+  > A distro is basically a distributed operating system. There are different kinds of Linux Distro like Fedora,Debian,RedHat,Kali,etc..
+- Now you need to select the Memory Size(RAM) which similarly looks like this,
+
+![MemorySize](memory-size-blog.png "MemorySize")
+
+You can select according to your requirement.
+
+- Now Hard Disk Management, where it asks whether to create or add existing virtual harddisk which is similar like below👇👇
+
+![HardDisk](hard-dsk-blog.png "HardDisk management")
+
+Select an option and click on Create.
+
+- Then select the hard disk file type from VDI,VHD,VMDK according to your requirement and click on Next.
+- Now it asks whether the hard disk should be dynamically stored or of fixed size. Select according to your ROM space available.
+- Now it asks for the file location of the virtual hard disk and the amount of memory space you want to allocate to it.
+  ![FileLocation](file-locationandsize.png "FileLocationAndAllocation")
+
+Select the amount of space you want to allocate and click on create.
+
+So thats it, you have installed your desired Linux Distro into your Windows Device. You can add more OS by following the above installation process into a single VBox.
+
+After the completion of installation your VBox window looks similar to this👇👇
+![VBox Out](vbox-out.png "VBox")
+
+So that's it folks, lets meet next time with another interesting topic to surf over.
