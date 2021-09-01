@@ -1,6 +1,6 @@
 ---
 title: Linux in Windows
-date: "1 Sep 2021"
+date: "2021-09-01"
 description: "Installation process for linux in windows.."
 ---
 
