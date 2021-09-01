@@ -8,6 +8,6 @@ Being a typical engineering student, going cracy for cyber security and ethical 
 
 Here are the two major things which we discuss:
 
-> Why Linux?
+    Why Linux?
 
-> Dont know Linux perfectly, then how you can encounter your fantasy.
+    Dont know Linux perfectly, then how you can encounter your fantasy.
