@@ -1,15 +1,16 @@
 ---
-title: Hello Pushpa
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello Pushpa"
+title: Linux in Windows
+date: "1 Sep 2021"
+description: "Installation process for linux in windows.."
 ---
 
-This is my first post on my new fake blog! How exciting!
+Being a typical engineering student, going cracy for cyber security and ethical hacking is a bit of fantasy for many. So here you are going to exploit various up and down factors in the process of learning.
 
-I'm sure I'll write a lot more interesting things in the future.
+Here are the two major things which we discuss:
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+> Why Linux?
+> Dont know Linux perfectly, then how you can encounter your fantasy.
+> [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
 
 > A salted duck egg is a Chinese preserved food product made by soaking duck
 > eggs in brine, or packing each egg in damp, salted charcoal. In Asian
